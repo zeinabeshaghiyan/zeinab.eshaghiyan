@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+### About Me
 
-You can use the [editor on GitHub](https://github.com/zeinabeshaghiyan/zeinab.eshaghiyan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Zeinab, I have two children, a son, a kindergarten and preschool teacher, and I am also a primary school
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### phon number
 
-### Markdown
+09109376949
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Personal information
 
-```markdown
-Syntax highlighted code block
+First name : zeinab
 
-# Header 1
-## Header 2
-### Header 3
+Last name : eshaghiyan
 
-- Bulleted
-- List
+Birth Day : february 1984
 
-1. Numbered
-2. List
+###Languages
 
-**Bold** and _Italic_ and `Code` text
+Persian
+English(Intermediate)
 
-[Link](url) and ![Image](src)
-```
+### Skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+>> Production of educational content
 
-### Jekyll Themes
+>> C++ Programming
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeinabeshaghiyan/zeinab.eshaghiyan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Work Experience
 
-### Support or Contact
+More than 10 years of teaching
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Production of educational content
+
+Instagram : @teach_by_eshaghi
+
+### درباره من
+زینب هستم  دوفرزند پسر دارم  معلم مهد پیش دبستانی همپنین پایه ابتدایی 
+
+###شماره تماس
+09109376949
+
+###اطلاعات شخصی
+نام: زینب
+
+نام خانوادگی : اسحاقیان
+
+تولد: بهمن1362
+
+### زبان
+فارسی
+
+(انگلیسی (متوسط
+
+###مهارت ها
+تولید محتوای اموزشی
+  
+C++ زبان برنامه نویسی
+  
+###سوابق کاری
+بیش از 10سال سابقه تدریس
+
+تولید محتوای اموزشی وارایه 
+
+اینستاگرام:@teach_by_eshaghi
+
+
+
