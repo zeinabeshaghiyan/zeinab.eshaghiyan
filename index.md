@@ -17,6 +17,7 @@ Birth Day : february 1984
 ### Languages
 
 Persian
+
 English(Intermediate)
 
 ### Skills
@@ -34,7 +35,7 @@ Production of educational content
 Instagram : @teach_by_eshaghi
 
 ### درباره من
-زینب هستم  دوفرزند پسر دارم  معلم مهد پیش دبستانی همپنین پایه ابتدایی 
+زینب هستم  دوفرزند پسر دارم  معلم مهد پیش دبستانی همچنین پایه ابتدایی 
 
 ### شماره تماس
 09109376949
