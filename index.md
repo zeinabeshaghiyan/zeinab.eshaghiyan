@@ -6,7 +6,7 @@ I am Zeinab, I have two children, a son, a kindergarten and preschool teacher, a
 
 09109376949
 
-###Personal information
+### Personal information
 
 First name : zeinab
 
@@ -14,7 +14,7 @@ Last name : eshaghiyan
 
 Birth Day : february 1984
 
-###Languages
+### Languages
 
 Persian
 English(Intermediate)
@@ -25,7 +25,7 @@ English(Intermediate)
 
 >> C++ Programming
 
-### Work Experience
+###  Work Experience
 
 More than 10 years of teaching
 
@@ -36,10 +36,10 @@ Instagram : @teach_by_eshaghi
 ### درباره من
 زینب هستم  دوفرزند پسر دارم  معلم مهد پیش دبستانی همپنین پایه ابتدایی 
 
-###شماره تماس
+### شماره تماس
 09109376949
 
-###اطلاعات شخصی
+### اطلاعات شخصی
 نام: زینب
 
 نام خانوادگی : اسحاقیان
@@ -51,12 +51,12 @@ Instagram : @teach_by_eshaghi
 
 (انگلیسی (متوسط
 
-###مهارت ها
+### مهارت ها
 تولید محتوای اموزشی
   
 C++ زبان برنامه نویسی
   
-###سوابق کاری
+### سوابق کاری
 بیش از 10سال سابقه تدریس
 
 تولید محتوای اموزشی وارایه 
